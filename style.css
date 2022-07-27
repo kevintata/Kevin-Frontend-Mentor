@@ -22,17 +22,17 @@ body{
 }
 h1{
     margin: 3px 28px;
-    font-size: 22px;
+    font-size: 20px;
     font-weight: 700;
     color: hsl(218, 44%, 22%);
 }
 p{
-    font-size: 16px;
+    font-size: 15px;
     margin:13px 30px;
     color: hsl(220, 15%, 55%);
 }
 img{
     margin: 15px;
-    max-width: 89%;
+    max-width: 88%;
     border-radius: 10px;
 }
