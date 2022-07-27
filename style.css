@@ -15,12 +15,12 @@ body{
 #box{
     position: relative;
     width: 320px;
-    height: 490px;
+    height: 500px;
     background: hsl(0, 0%, 100%);
     border-radius: 20px;
 }
 h1{
-    margin: 0 28px;
+    margin: 5px 28px;
     font-size: 23px;
     font-weight: 700;
     color: hsl(218, 44%, 22%);
